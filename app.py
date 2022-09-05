@@ -10,7 +10,7 @@ def generate_text(text, gen_length):
 
 Instructuction = "Browse the internet to download any unique image"
 title="Text generation playground"
-description = "Start writting a peice of text in the input box\
+description = "Start writing a peice of text in the input box\
                and see how well the text generation language model\
                is able to generate new text that uniquely completes your sentences."
 article = """
