@@ -1,5 +1,5 @@
 ---
-title: Text Classification/ Sentiment analysis
+title: Text Generation
 emoji: 🧾
 colorFrom: yellow
 colorTo: pink
