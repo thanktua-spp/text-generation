@@ -23,7 +23,7 @@ article = """
 # Gradio app design
 interface = gr.Interface(
             generate_text,
-            inputs = ['text', gr.Slider(20, 100, value=80, step=1)],
+            inputs = ['text', gr.Slider(20, 120, value=80, step=1)],
             outputs='text',
             title = title,
             description = description,
